@@ -2,12 +2,14 @@
 ## Write a Report on the Neural Network Model
 
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
-The report should contain the following:
-1. <ins>Overview of the analysis</ins> Explain the purpose of this analysis: 
+
+### Overview of the analysis
+1. Explain the purpose of this analysis: 
 
 Maching learning & neural networks are a powerful tool for predicting outcomes. In this case, I am trying to use the features in the provided dataset to creat a binary classifier that can predict whether applicants will be succesful if funded by Alphabet Soup. The goal is to identify applicants that are most likely to be successful if funded by Alphabet Soup.
 
-2. <ins>Results</ins> Using bulleted lists and images to support your answers, address the following questions:
+### Results
+2. Using bulleted lists and images to support your answers, address the following questions:
     * Data Preprocessing
         * What variable(s) are the target(s) for your model?
         * What variable(s) are the features for your model?
@@ -17,4 +19,5 @@ Maching learning & neural networks are a powerful tool for predicting outcomes. 
         * Were you able to achieve the target model performance?
         * What steps did you take in your attempts to increase model performance?
 
-3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+### Summary
+3. Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
