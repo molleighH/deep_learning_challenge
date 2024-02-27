@@ -7,7 +7,7 @@ The report should contain the following:
 
 Maching learning & neural networks are a powerful tool for predicting outcomes. In this case, I am trying to use the features in the provided dataset to creat a binary classifier that can predict whether applicants will be succesful if funded by Alphabet Soup. The goal is to identify applicants that are most likely to be successful if funded by Alphabet Soup.
 
-2. Results: Using bulleted lists and images to support your answers, address the following questions:
+2. <ins>Results</ins> Using bulleted lists and images to support your answers, address the following questions:
     * Data Preprocessing
         * What variable(s) are the target(s) for your model?
         * What variable(s) are the features for your model?
