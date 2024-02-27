@@ -3,7 +3,7 @@
 
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
 The report should contain the following:
-1. Overview of the analysis: Explain the purpose of this analysis: 
+1. <ins>Overview of the analysis</ins> Explain the purpose of this analysis: 
 
 Maching learning & neural networks are a powerful tool for predicting outcomes. In this case, I am trying to use the features in the provided dataset to creat a binary classifier that can predict whether applicants will be succesful if funded by Alphabet Soup. The goal is to identify applicants that are most likely to be successful if funded by Alphabet Soup.
 
